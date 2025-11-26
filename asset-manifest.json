@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Quick-commerce/static/css/main.e6c13ad2.css",
-    "main.js": "/Quick-commerce/static/js/main.376ed2bb.js",
-    "index.html": "/Quick-commerce/index.html",
-    "main.e6c13ad2.css.map": "/Quick-commerce/static/css/main.e6c13ad2.css.map",
-    "main.376ed2bb.js.map": "/Quick-commerce/static/js/main.376ed2bb.js.map"
+    "main.css": "/Naveenkamble/static/css/main.e6c13ad2.css",
+    "main.js": "/Naveenkamble/static/js/main.376ed2bb.js",
+    "index.html": "/Naveenkamble/index.html",
+    "main.e6c13ad2.css.map": "/Naveenkamble/static/css/main.e6c13ad2.css.map",
+    "main.376ed2bb.js.map": "/Naveenkamble/static/js/main.376ed2bb.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
