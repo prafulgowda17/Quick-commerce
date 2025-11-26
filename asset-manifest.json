@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/prafulgowda17/Quick-commerce.git/static/css/main.e6c13ad2.css",
-    "main.js": "/prafulgowda17/Quick-commerce.git/static/js/main.376ed2bb.js",
-    "index.html": "/prafulgowda17/Quick-commerce.git/index.html",
-    "main.e6c13ad2.css.map": "/prafulgowda17/Quick-commerce.git/static/css/main.e6c13ad2.css.map",
-    "main.376ed2bb.js.map": "/prafulgowda17/Quick-commerce.git/static/js/main.376ed2bb.js.map"
+    "main.css": "/Quick-commerce/static/css/main.e6c13ad2.css",
+    "main.js": "/Quick-commerce/static/js/main.376ed2bb.js",
+    "index.html": "/Quick-commerce/index.html",
+    "main.e6c13ad2.css.map": "/Quick-commerce/static/css/main.e6c13ad2.css.map",
+    "main.376ed2bb.js.map": "/Quick-commerce/static/js/main.376ed2bb.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
